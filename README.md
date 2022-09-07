@@ -8,9 +8,10 @@ https://api.sap.com/api/salespointofdelivery/overview
 本レポジトリ の sql設定ファイルの内容は、上記URL の API 仕様を前提としています。  
 
 ## sqlの設定ファイル
+
 sap-sales-point-of-delivery-sql には、sqlの設定ファイルとして、以下のファイルが含まれています。  
 
-* sap-sales-point-of-delivery-collection-data.sql（SAP 販売配送点 - 販売配送点データ）    
+* sap-sales-point-of-delivery-sql-sales-point-of-delivery-collection-data.sql（SAP 販売配送点 - 販売配送点データ）    
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法  
 
